@@ -1,0 +1,105 @@
+{
+    "title": "CyberSec",
+    "questions": [
+        {
+            "text": "What does the term 'phishing' refer to?",
+            "options": ["A technique to steal personal information", "A type of virus", "A network protocol", "A software development methodology"],
+            "correct_answers": ["A technique to steal personal information"]
+        },
+        {
+            "text": "Which of the following are considered strong passwords?",
+            "options": ["P@ssw0rd123!", "password", "123456", "Qwerty!@#"],
+            "correct_answers": ["P@ssw0rd123!", "Qwerty!@#"]
+        },
+        {
+            "text": "What is the main purpose of a firewall?",
+            "options": ["To block unauthorized access", "To speed up the computer", "To store data", "To provide internet access"],
+            "correct_answers": ["To block unauthorized access"]
+        },
+        {
+            "text": "What does the acronym 'DoS' stand for in cybersecurity?",
+            "options": ["Denial of Service", "Denial of Security", "Disruption of Service", "Data over System"],
+            "correct_answers": ["Denial of Service"]
+        },
+        {
+            "text": "Which of the following are types of malware?",
+            "options": ["Virus", "Worm", "Trojan Horse", "All of the above"],
+            "correct_answers": ["All of the above"]
+        },
+        {
+            "text": "What is two-factor authentication (2FA)?",
+            "options": ["A security process in which the user provides two different authentication factors", "A type of virus protection", "A method to store data securely", "A network protocol"],
+            "correct_answers": ["A security process in which the user provides two different authentication factors"]
+        },
+        {
+            "text": "Which of the following techniques can be used to secure a wireless network?",
+            "options": ["Using WPA2 encryption", "Disabling SSID broadcast", "Changing the default router password", "All of the above"],
+            "correct_answers": ["All of the above"]
+        },
+        {
+            "text": "What does 'VPN' stand for?",
+            "options": ["Virtual Private Network", "Virtual Personal Network", "Virtual Protected Network", "Virtual Public Network"],
+            "correct_answers": ["Virtual Private Network"]
+        },
+        {
+            "text": "What is a brute-force attack?",
+            "options": ["An attempt to guess a password by trying many possible combinations", "A type of phishing attack", "A method of data encryption", "A form of denial-of-service attack"],
+            "correct_answers": ["An attempt to guess a password by trying many possible combinations"]
+        },
+        {
+            "text": "What is social engineering in the context of cybersecurity?",
+            "options": ["Manipulating people into divulging confidential information", "Creating strong passwords", "Developing secure software", "Monitoring network traffic"],
+            "correct_answers": ["Manipulating people into divulging confidential information"]
+        },
+        {
+            "text": "Which of the following are common indicators of a phishing email?",
+            "options": ["Suspicious attachments", "Urgent or threatening language", "Unfamiliar sender address", "All of the above"],
+            "correct_answers": ["All of the above"]
+        },
+        {
+            "text": "What does 'SSL' stand for in web security?",
+            "options": ["Secure Sockets Layer", "Secure Security Layer", "Secure Server Layer", "Secure System Layer"],
+            "correct_answers": ["Secure Sockets Layer"]
+        },
+        {
+            "text": "Which of the following actions can help protect against ransomware?",
+            "options": ["Regularly backing up data", "Updating software and systems", "Avoiding suspicious links and attachments", "All of the above"],
+            "correct_answers": ["All of the above"]
+        },
+        {
+            "text": "What is the purpose of encryption?",
+            "options": ["To protect data by making it unreadable without a key", "To speed up data transmission", "To create backups", "To compress files"],
+            "correct_answers": ["To protect data by making it unreadable without a key"]
+        },
+        {
+            "text": "Which of the following are common methods of data encryption?",
+            "options": ["AES", "DES", "RSA", "All of the above"],
+            "correct_answers": ["All of the above"]
+        },
+        {
+            "text": "What is a 'zero-day' vulnerability?",
+            "options": ["A previously unknown security flaw that is exploited before a fix is available", "A type of malware", "A backup method", "A password management tool"],
+            "correct_answers": ["A previously unknown security flaw that is exploited before a fix is available"]
+        },
+        {
+            "text": "What does 'https' signify when seen in a web address?",
+            "options": ["The website is using a secure connection", "The website is hosted on a secure server", "The website is encrypted", "The website is a scam"],
+            "correct_answers": ["The website is using a secure connection"]
+        },
+        {
+            "text": "Which of the following are benefits of using a password manager?",
+            "options": ["Strong password generation", "Secure password storage", "Ease of password management", "All of the above"],
+            "correct_answers": ["All of the above"]
+        },
+        {
+            "text": "What is a 'man-in-the-middle' attack?",
+            "options": ["An attack where the attacker intercepts and possibly alters the communication between two parties", "A brute-force attack", "A phishing attack", "A denial-of-service attack"],
+            "correct_answers": ["An attack where the attacker intercepts and possibly alters the communication between two parties"]
+        },
+        {
+            "text": "Which of the following are examples of multi-factor authentication?",
+            "options": ["Password and SMS code", "Password and fingerprint", "Password and security question", "All of the above"],
+            "correct_answers": ["All of the above"]
+        }
+    ]
+}
