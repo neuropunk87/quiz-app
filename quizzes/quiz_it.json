@@ -1,0 +1,105 @@
+{
+    "title": "IT",
+    "questions": [
+        {
+            "text": "What does CPU stand for?",
+            "options": ["Central Processing Unit", "Central Process Unit", "Computer Personal Unit", "Central Processor Unit"],
+            "correct_answers": ["Central Processing Unit"]
+        },
+        {
+            "text": "Which programming languages are primarily used for web development?",
+            "options": ["JavaScript", "Python", "C++", "HTML"],
+            "correct_answers": ["JavaScript", "HTML"]
+        },
+        {
+            "text": "What does HTTP stand for?",
+            "options": ["HyperText Transfer Protocol", "HyperText Transmission Protocol", "HyperText Transfer Program", "HyperText Transmission Program"],
+            "correct_answers": ["HyperText Transfer Protocol"]
+        },
+        {
+            "text": "What is the main function of a firewall?",
+            "options": ["To block unauthorized access", "To speed up the computer", "To store data", "To provide internet access"],
+            "correct_answers": ["To block unauthorized access"]
+        },
+        {
+            "text": "What is the name of the first mechanical computer?",
+            "options": ["Analytical Engine", "Difference Engine", "Turing Machine", "ENIAC"],
+            "correct_answers": ["Analytical Engine"]
+        },
+        {
+            "text": "Which company developed the Java programming language?",
+            "options": ["Sun Microsystems", "Microsoft", "Apple", "IBM"],
+            "correct_answers": ["Sun Microsystems"]
+        },
+        {
+            "text": "What does SSD stand for in computer storage?",
+            "options": ["Solid State Drive", "Solid State Disk", "Super Speed Drive", "Super Storage Disk"],
+            "correct_answers": ["Solid State Drive"]
+        },
+        {
+            "text": "What is the main purpose of RAM in a computer?",
+            "options": ["To store data temporarily", "To permanently store data", "To process graphics", "To connect to the internet"],
+            "correct_answers": ["To store data temporarily"]
+        },
+        {
+            "text": "What does URL stand for?",
+            "options": ["Uniform Resource Locator", "Uniform Resource Link", "Unified Resource Locator", "Unified Resource Link"],
+            "correct_answers": ["Uniform Resource Locator"]
+        },
+        {
+            "text": "What are the primary purposes of an operating system?",
+            "options": ["To manage hardware and software resources", "To perform calculations", "To run web servers", "To compile code"],
+            "correct_answers": ["To manage hardware and software resources"]
+        },
+        {
+            "text": "Which of the following are examples of open-source software?",
+            "options": ["Linux", "Windows", "MacOS", "iOS"],
+            "correct_answers": ["Linux"]
+        },
+        {
+            "text": "What is the function of DNS in the internet?",
+            "options": ["To translate domain names to IP addresses", "To provide web hosting", "To encrypt data", "To manage email accounts"],
+            "correct_answers": ["To translate domain names to IP addresses"]
+        },
+        {
+            "text": "What does HTML stand for?",
+            "options": ["HyperText Markup Language", "HyperText Markdown Language", "HyperText Machine Language", "HyperText Management Language"],
+            "correct_answers": ["HyperText Markup Language"]
+        },
+        {
+            "text": "Which company developed the Windows operating system?",
+            "options": ["Microsoft", "Apple", "Google", "IBM"],
+            "correct_answers": ["Microsoft"]
+        },
+        {
+            "text": "What is the name of the first web browser?",
+            "options": ["WorldWideWeb", "Mosaic", "Netscape", "Internet Explorer"],
+            "correct_answers": ["WorldWideWeb"]
+        },
+        {
+            "text": "What is the purpose of an IP address?",
+            "options": ["To identify devices on a network", "To store data", "To manage files", "To perform calculations"],
+            "correct_answers": ["To identify devices on a network"]
+        },
+        {
+            "text": "What does GUI stand for?",
+            "options": ["Graphical User Interface", "General User Interface", "Graphical Universal Interface", "General Universal Interface"],
+            "correct_answers": ["Graphical User Interface"]
+        },
+        {
+            "text": "Which of the following are examples of database management systems?",
+            "options": ["MySQL", "Python", "HTML", "CSS"],
+            "correct_answers": ["MySQL"]
+        },
+        {
+            "text": "What is the primary function of a web server?",
+            "options": ["To serve web pages to clients", "To store files", "To manage emails", "To compile code"],
+            "correct_answers": ["To serve web pages to clients"]
+        },
+        {
+            "text": "What does VPN stand for?",
+            "options": ["Virtual Private Network", "Virtual Personal Network", "Virtual Protected Network", "Virtual Public Network"],
+            "correct_answers": ["Virtual Private Network"]
+        }
+    ]
+}

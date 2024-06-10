@@ -1,0 +1,146 @@
+[
+    {
+        "user": "user1",
+        "quiz": "Python",
+        "score": 15,
+        "timestamp": "2024-06-05T23:47:19.637691"
+    },
+    {
+        "user": "user1",
+        "quiz": "IT",
+        "score": 10,
+        "timestamp": "2024-06-05T23:50:29.475959"
+    },
+    {
+        "user": "user1",
+        "quiz": "CyberSec",
+        "score": 20,
+        "timestamp": "2024-06-05T23:53:12.987041"
+    },
+    {
+        "user": "user1",
+        "quiz": "Mix",
+        "score": 18,
+        "timestamp": "2024-06-05T23:56:11.009203"
+    },
+    {
+        "user": "user2",
+        "quiz": "Python",
+        "score": 19,
+        "timestamp": "2024-06-05T23:59:19.637691"
+    },
+    {
+        "user": "user2",
+        "quiz": "IT",
+        "score": 16,
+        "timestamp": "2024-06-06T00:02:29.475959"
+    },
+    {
+        "user": "user2",
+        "quiz": "CyberSec",
+        "score": 14,
+        "timestamp": "2024-06-06T00:05:12.987041"
+    },
+    {
+        "user": "user2",
+        "quiz": "Mix",
+        "score": 17,
+        "timestamp": "2024-06-06T00:08:11.009203"
+    },
+    {
+        "user": "user3",
+        "quiz": "Python",
+        "score": 12,
+        "timestamp": "2024-06-06T00:11:19.637691"
+    },
+    {
+        "user": "user3",
+        "quiz": "IT",
+        "score": 9,
+        "timestamp": "2024-06-06T00:14:29.475959"
+    },
+    {
+        "user": "user3",
+        "quiz": "CyberSec",
+        "score": 7,
+        "timestamp": "2024-06-06T00:17:12.987041"
+    },
+    {
+        "user": "user3",
+        "quiz": "Mix",
+        "score": 8,
+        "timestamp": "2024-06-06T00:20:11.009203"
+    },
+    {
+        "user": "user4",
+        "quiz": "Python",
+        "score": 8,
+        "timestamp": "2024-06-06T00:23:19.637691"
+    },
+    {
+        "user": "user4",
+        "quiz": "IT",
+        "score": 7,
+        "timestamp": "2024-06-06T00:26:29.475959"
+    },
+    {
+        "user": "user4",
+        "quiz": "CyberSec",
+        "score": 6,
+        "timestamp": "2024-06-06T00:29:12.987041"
+    },
+    {
+        "user": "user4",
+        "quiz": "Mix",
+        "score": 5,
+        "timestamp": "2024-06-06T00:32:11.009203"
+    },
+    {
+        "user": "user5",
+        "quiz": "Python",
+        "score": 10,
+        "timestamp": "2024-06-06T00:35:19.637691"
+    },
+    {
+        "user": "user5",
+        "quiz": "IT",
+        "score": 15,
+        "timestamp": "2024-06-06T00:38:29.475959"
+    },
+    {
+        "user": "user5",
+        "quiz": "CyberSec",
+        "score": 12,
+        "timestamp": "2024-06-06T00:41:12.987041"
+    },
+    {
+        "user": "user5",
+        "quiz": "Mix",
+        "score": 14,
+        "timestamp": "2024-06-06T00:44:11.009203"
+    },
+    {
+        "user": "user6",
+        "quiz": "Python",
+        "score": 11,
+        "timestamp": "2024-06-06T00:47:19.637691"
+    },
+    {
+        "user": "user6",
+        "quiz": "IT",
+        "score": 17,
+        "timestamp": "2024-06-06T00:50:29.475959"
+    },
+    {
+        "user": "user6",
+        "quiz": "CyberSec",
+        "score": 9,
+        "timestamp": "2024-06-06T00:53:12.987041"
+    },
+    {
+        "user": "user6",
+        "quiz": "Mix",
+        "score": 13,
+        "timestamp": "2024-06-06T00:56:11.009203"
+    }
+]

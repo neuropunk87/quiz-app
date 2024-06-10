@@ -1,0 +1,105 @@
+{
+    "title": "Python",
+    "questions": [
+        {
+            "text": "What is the output of the following code: print(type([]))?",
+            "options": ["<class 'list'>", "<class 'dict'>", "<class 'set'>", "<class 'tuple'>"],
+            "correct_answers": ["<class 'list'>"]
+        },
+        {
+            "text": "Which of the following are mutable data types in Python?",
+            "options": ["List", "Tuple", "String", "Dictionary"],
+            "correct_answers": ["List", "Dictionary"]
+        },
+        {
+            "text": "What keyword is used to create a function in Python?",
+            "options": ["def", "func", "function", "define"],
+            "correct_answers": ["def"]
+        },
+        {
+            "text": "What is the output of the following code: print(2 ** 3)?",
+            "options": ["6", "8", "9", "4"],
+            "correct_answers": ["8"]
+        },
+        {
+            "text": "How do you start a comment in Python?",
+            "options": ["//", "/*", "#", "--"],
+            "correct_answers": ["#"]
+        },
+        {
+            "text": "Which of the following are used to handle exceptions in Python?",
+            "options": ["try-except", "catch-throw", "do-except", "try-catch"],
+            "correct_answers": ["try-except"]
+        },
+        {
+            "text": "Which built-in function is used to get the length of a list in Python?",
+            "options": ["len()", "length()", "size()", "count()"],
+            "correct_answers": ["len()"]
+        },
+        {
+            "text": "How do you create a dictionary in Python?",
+            "options": ["{}", "[]", "()", "<>"],
+            "correct_answers": ["{}"]
+        },
+        {
+            "text": "Which of the following are Python packages for data analysis?",
+            "options": ["pandas", "numpy", "scipy", "matplotlib"],
+            "correct_answers": ["pandas", "numpy"]
+        },
+        {
+            "text": "How do you install a package using pip?",
+            "options": ["pip install package_name", "pip get package_name", "pip download package_name", "pip add package_name"],
+            "correct_answers": ["pip install package_name"]
+        },
+        {
+            "text": "What is the output of the following code: print('Hello, World!'.upper())?",
+            "options": ["hello, world!", "HELLO, WORLD!", "Hello, World!", "hello, World!"],
+            "correct_answers": ["HELLO, WORLD!"]
+        },
+        {
+            "text": "Which of the following methods are used to add an element at the end of a list in Python?",
+            "options": ["append()", "add()", "insert()", "extend()"],
+            "correct_answers": ["append()", "extend()"]
+        },
+        {
+            "text": "What is the correct way to create a set in Python?",
+            "options": ["set()", "{}", "[]", "()"],
+            "correct_answers": ["set()"]
+        },
+        {
+            "text": "How do you create a tuple in Python?",
+            "options": ["()", "[]", "{}", "<>"],
+            "correct_answers": ["()"]
+        },
+        {
+            "text": "Which of the following functions convert a string to a float in Python?",
+            "options": ["float()", "int()", "str()", "bool()"],
+            "correct_answers": ["float()"]
+        },
+        {
+            "text": "What is the correct file extension for Python files?",
+            "options": [".py", ".python", ".pyt", ".pt"],
+            "correct_answers": [".py"]
+        },
+        {
+            "text": "What is the output of the following code: print(5 // 2)?",
+            "options": ["2.5", "2", "3", "2.0"],
+            "correct_answers": ["2"]
+        },
+        {
+            "text": "How do you create a virtual environment in Python?",
+            "options": ["python -m venv env", "python -m virtualenv env", "python create venv env", "python make venv env"],
+            "correct_answers": ["python -m venv env"]
+        },
+        {
+            "text": "Which of the following methods can be used to remove whitespace characters from the beginning and the end of a string?",
+            "options": ["strip()", "trim()", "cut()", "remove()"],
+            "correct_answers": ["strip()"]
+        },
+        {
+            "text": "What is the output of the following code: print('Hello, World!'[1:5])?",
+            "options": ["ello", "Hell", "ello,", "ell"],
+            "correct_answers": ["ello"]
+        }
+    ]
+}
