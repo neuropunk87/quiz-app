@@ -38,7 +38,7 @@ class UserMenu:
             new_user = User(login, password, birth_date)
             self.user_service.register_user(new_user)
         except ValueError:
-            print(InvalidDateFormatException())
+            raise InvalidDateFormatException()
 
     def log_in(self):
         while True:
