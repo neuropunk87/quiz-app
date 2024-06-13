@@ -26,7 +26,7 @@ class UserService:
 
     def register_user(self, user: User) -> bool:
         if any(u.login.lower() == user.login.lower() for u in self.users):
-            print(UserAlreadyExistsException())
+            raise UserAlreadyExistsException(f"User '{user.login}' already exists.")
         else:
             print("Registration successful. You can log in now.")
             self.users.append(user)
